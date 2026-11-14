@@ -1,7 +1,7 @@
 # BIA601-Project
 # مشروع اختيار الخصائص: GA مقابل BPSO مقابل ACO
 
-![غلاف المشروع](images/cover.png)
+![غلاف المشروع](cover.png)
 
 ## مقدمة
 
